@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Welcome! I am Faraz and these are some of my projects! </h1>
 
-<!--
-**enigmacoding/enigmacoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Homelab 💻:</h2>
 
-Here are some ideas to get you started:
+- <b>Proxmox</b>
+  
+- <b>GNS3</b>
+  
+  
+<h2>Development ⌨️</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>Connect with me 📲:</h2>
+
+[<img align="left" alt="MohammedFarazuddin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/mohammed-farazuddin-387b72180/
